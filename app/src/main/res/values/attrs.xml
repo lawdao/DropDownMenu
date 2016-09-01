@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="DropDownMenu">
+        <!--下划线颜色-->
+        <attr name="underlineColor" format="color" />
+        <!--分割线颜色(菜单栏)-->
+        <attr name="dividerColor" format="color" />
+        <!--tab选中颜色-->
+        <attr name="textSelectedColor" format="color" />
+        <!--tab未选中颜色-->
+        <attr name="textUnselectedColor" format="color" />
+        <!--tab 背景颜色-->
+        <attr name="menuBackgroundColor" format="color" />
+        <!--遮罩颜色，一般是半透明-->
+        <attr name="maskColor" format="color" />
+        <!--字体大小-->
+        <attr name="menuTextSize" format="dimension" />
+        <!--tab选中状态图标-->
+        <attr name="menuSelectedIcon" format="reference" />
+        <!--tab未选中状态图标-->
+        <attr name="menuUnselectedIcon" format="reference" />
+    </declare-styleable>
+
+</resources>

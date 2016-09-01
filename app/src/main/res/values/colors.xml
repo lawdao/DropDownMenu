@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="mask_color">#88888888</color>
+    <color name="blue_app">#22abea</color>
+    <color name="drop_down_unselected">#ffffff</color>
+
+    <color name="base_title_color">#464a4d</color>
+    <color name="material_text_color_47">#333333</color>
+    <color name="divider_color_c7">#d3d3d3</color>
+</resources>

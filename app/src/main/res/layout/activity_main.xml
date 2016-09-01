@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="example.fussen.dropdownmenu.MainActivity">
+
+    <example.fussen.dropdownmenu.DropDownMenu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/dropDownMenu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:dividerColor="@color/blue_app"
+        app:maskColor="@color/mask_color"
+        app:menuBackgroundColor="@color/base_title_color"
+        app:menuSelectedIcon="@drawable/ic_img_up"
+        app:menuTextSize="16sp"
+        app:menuUnselectedIcon="@drawable/ic_img_down"
+        app:textSelectedColor="@color/blue_app"
+        app:textUnselectedColor="@color/drop_down_unselected"
+        app:underlineColor="@color/blue_app" />
+
+</RelativeLayout>
