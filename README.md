@@ -51,6 +51,12 @@
 
 [我的博客](http://blog.csdn.net/fussenyu)
 
+欢迎关注我们的微信公共号：AppCode
+
+扫描下面二维码即可关注
+
+![](http://ww1.sinaimg.cn/large/65e4f1e6gw1f9btkbltksj2076076aaj.jpg)
+
 
 
 
