@@ -47,7 +47,7 @@
     </declare-styleable>
 
 ##apk下载
-[apk](http://dl.download.csdn.net/down11/20160901/489a6b85108bb342ac427dedf1200608.apk?response-content-disposition=attachment%3Bfilename%3D%22app-debug.apk%22&OSSAccessKeyId=9q6nvzoJGowBj4q1&Expires=1472719539&Signature=%2FpqAv2XUbA07K5lZMHjmunGBRoE%3D)
+[点击下载apk](http://download.csdn.net/download/fussenyu/9619097)
 
 [我的博客](http://blog.csdn.net/fussenyu)
 
@@ -56,7 +56,3 @@
 扫描下面二维码即可关注
 
 ![](http://ww1.sinaimg.cn/large/65e4f1e6gw1f9btkbltksj2076076aaj.jpg)
-
-
-
-
